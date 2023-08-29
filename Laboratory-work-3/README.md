@@ -30,3 +30,25 @@
 через послідовність Git-команд add, commit із коментарем «Changed by Local Git» та push"
 
 ### 1 Навігація по файловій системі через засоби оболонки Git Bash інтерпретатору командного рядку Bash
+
+![image](https://github.com/asanvolkov/student_test/blob/Laboratory-work-3/Laboratory-work-3/2.2.1.png)
+
+Рис. 7 - Фрагмент екрану з рішення завдання 2.2.1 "Отримати перелік файлів поточного каталогу з урахуванням видимості прихованих файлів"
+
+![image](https://github.com/asanvolkov/student_test/blob/Laboratory-work-3/Laboratory-work-3/2.2.2.png)
+
+Рис. 8 - Фрагмент екрану з рішення завдання 2.2.2 "Перейти до прихованого каталогу .git, використовуючи команду pushd з метою швидкого повернення до попереднього каталогу у майбутньому"
+
+![image](https://github.com/asanvolkov/student_test/blob/Laboratory-work-3/Laboratory-work-3/2.2.3.png)
+
+Рис. 9 - Фрагмент екрану з рішення завдання 2.2.3 "Переглянути вміст файлу config, використовуючи редактор nano. Для завершення перегляду вказати комбінацію клавіш Ctrl+X"
+
+![image](https://github.com/asanvolkov/student_test/blob/Laboratory-work-3/Laboratory-work-3/2.2.4.png)
+
+Рис. 10 - Фрагмент екрану з рішення завдання 2.2.4 "Отримати перелік файлів поточного каталогу з урахуванням наступних умов:
+- відображення списку файлів у псевдо табличному форматі;
+- впорядкування порядку слідування файлів за убуванням їх розміру"
+  
+![image](https://github.com/asanvolkov/student_test/blob/Laboratory-work-3/Laboratory-work-3/2.2.5.png)
+
+Рис. 11 - Фрагмент екрану з рішення завдання 2.2.5 "Повернутися до каталогу, використовуючи команду швидкого повернення"
